@@ -14,6 +14,14 @@ function App() {
         </button>
       </div>
 
+      <main className="main">
+        <h2>Cep: 64456465</h2>
+        <span>Rua: Coronel</span>
+        <span>Bairro: Maria das dores</span>
+        <span>Estado: São Paulo</span>
+        <span>Cidade: Gasparzinho</span>
+      </main>
+
     </div>
   );
 }
